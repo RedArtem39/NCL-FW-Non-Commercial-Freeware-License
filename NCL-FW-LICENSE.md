@@ -2,12 +2,12 @@
 
 **Version 1.0**
 
-Copyright (c) 2026 Red_Artem39. All rights reserved.
+Copyright (c) 2026 NCL-FW Project. All rights reserved.
 
 > **Plain-language summary (informative, not a substitute for the terms below):**
 > NCL-FW lets you download, use, share, and modify the software **for non-commercial
 > purposes only** — for free. **Any commercial use is strictly prohibited** unless you
-> get explicit written permission from the author.
+> get explicit written permission from the copyright holder.
 
 ---
 
@@ -44,9 +44,9 @@ distribute, and publicly display** the Software, **solely for Non-Commercial Use
 ## 4. Prohibition on Commercial Use
 
 Commercial Use of the Software, in whole or in part, whether in original or modified
-form, is **strictly prohibited** without the prior, explicit, written permission of the
-copyright holder. To request a commercial license, contact:
-**https://t.me/Red_Artem39**
+form, is **strictly prohibited** without the prior, explicit, written permission of
+the copyright holder. To request a commercial license, contact:
+**license@ncl-fw.dev**
 
 ## 5. Reservation of Rights
 
@@ -69,8 +69,8 @@ which You are contributing.
 ## 7. Termination
 
 The rights granted to You under this License automatically terminate, without further
-notice, if You breach any of its terms. Upon termination, Your rights under this
-License cease, and You must stop all use and distribution of the Software.
+notice, if You breach any of its terms. Upon termination, You must stop all use and
+distribution of the Software.
 
 ## 8. Limitation of Liability
 
